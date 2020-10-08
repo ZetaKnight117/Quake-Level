@@ -4,7 +4,7 @@ This will be an adventure game and Some what of a mystery game.The setting of th
 
 # Game Map Design
 https://github.com/ZetaKnight117/Quake-Level/blob/main/Images/Game%20Map.PNG
-
+![Alt Text](https://github.com/ZetaKnight117/Quake-Level/blob/main/Images/Game%20Map.PNG)
 
 # Personal Journal
 Entry 1: Overall Idea has been thought about and is in progress.
