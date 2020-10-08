@@ -1,0 +1,7 @@
+---- qbsp / ericw-tools v0.18.1 ----
+Input file: Quake.map
+Output file: level.bsp
+
+---- LoadMapFile ----
+************ ERROR ************
+Failed to open Quake.map: No such file or directory
