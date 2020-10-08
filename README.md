@@ -7,4 +7,6 @@ This will be an adventure game and Some what of a mystery game.The setting of th
 
 
 # Personal Journal
-The Game Map has been made for the overall design of my level. There will a max of 4 players that will b able to play this level. Enemies will be in the area with a key.
+Entry 1: Overall Idea has been thought about and is in progress.
+
+Entry 2: The Game Map has been made for the overall design of my level. There will a max of 4 players that will be able to play this level. Enemies will be in the area with a key.
