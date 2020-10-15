@@ -1,13 +1,10 @@
 # The Mysterous Arena
 
-This will be a Deathmach level. there willl be maximum number of 4 players that will be able to play. The map will be big but not to big as there will be unpredicable spawn points 
-the map to stop player from spawn killing each other. The goal of the game is to beget more kills than the other players. There will aslo be other weapons spawned all over the map so watch out for them.
+This is a multiplayer level for the game Quake. This will be a Deathmach level. there willl be maximum number of 4 players that will be able to play. The map will be big but not to big as there will be unpredicable spawn points 
+the map to stop player from spawn killing each other. The goal of the game is to beget more kills than the other players. There will aslo be other weapons spawned all over the map so watch out for them. The links below are my manifeso, my process journal, and the 2d map.
 
-# Game Map Design
-https://github.com/ZetaKnight117/Quake-Level/blob/main/Images/Game%20Map.PNG
-![Alt Text](https://github.com/ZetaKnight117/Quake-Level/blob/main/Images/Game%20Map.PNG)
+[Manifesto](https://github.com/ZetaKnight117/Quake-Level/wiki/Manifesto)
 
-# Personal Journal
-Entry 1: Overall Idea has been thought about and is in progress.
+[The Process Journal](https://github.com/ZetaKnight117/Quake-Level/wiki/Process-Journal)
 
-Entry 2: The Game Map has been made for the overall design of my level. There will a max of 4 players that will be able to play this level. 
+[2d top down map](https://github.com/ZetaKnight117/Quake-Level/wiki/2d-Level-Map)
