@@ -674,3 +674,18 @@
 "classname" "info_player_deathmatch"
 "origin" "-336 448 64"
 }
+// entity 7
+{
+"classname" "info_player_deathmatch"
+"origin" "-144 -112 72"
+}
+// entity 8
+{
+"classname" "info_player_deathmatch"
+"origin" "-656 -80 72"
+}
+// entity 9
+{
+"classname" "info_player_deathmatch"
+"origin" "640 64 72"
+}
